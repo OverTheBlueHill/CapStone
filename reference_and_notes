@@ -29,7 +29,6 @@ This is very objective. It should be difficult to score a high score, but not di
 0pts – Less than 9 unique CSS rules were used.
 Enhancements!!
 You need to add four elements to your site that are unique – something beyond what we did in the four previous courses. You are encouraged to be as creative as you would like (and creative does not need to mean time-intensive). Some options for these "extras" include:
-git tested
 Add custom JavaScript (e.g. incorporate dynamic content, use JS to perform verification, modify the DOM)
 Enhance the accessibility of your page (e.g. put your site through the some subset of the WebAim quick evaluation reference - http://webaim.org/resources/evalquickref/)
 Incorporate plugins (e.g. Google Calendar, a map, parallax, etc.) You will need to show what you did other than just copying code. Did you need to change any of the attributes? Change any of the links?
@@ -37,7 +36,7 @@ Include a Carousel for your images (don't forget to turn off the automatic start
 Use a sticky footer to create a consistent look across different browser heights (we usually only consider widths…)
 Add a third viewport layout (e.g. a table view that is different than mobile or large-screen)
 Again, these are just suggestions, please feel free to let your own creativity be your guide.
-
+test again
 Each extra will be worth 10 pts, for a total of 40 pts.
 
 Color Schemes: https://coolors.co/
